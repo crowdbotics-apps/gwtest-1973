@@ -1,0 +1,3 @@
+rootProject.name = 'gwtest_1973'
+
+include ':app'
